@@ -26,7 +26,7 @@ To run the project locally, follow these simple steps:
    # or
    npm run ios
 
-📲 Usage
+## 📲 Usage
 Launch the application on your device or emulator.
 Follow the on-screen instructions that prompt you with specific commands.
 The app will use the device's camera and face detection to track your face in real-time.
@@ -40,7 +40,7 @@ Expo Camera
 Expo Face Detection
 Make sure to refer to their documentation for more details on how to use them.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to the project, follow these steps:
 
 Fork the repository.
@@ -48,5 +48,5 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Push the changes to your fork.
 Submit a pull request.
-📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
