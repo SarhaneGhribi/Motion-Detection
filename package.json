@@ -1,9 +1,12 @@
 {
   "name": "kyc-expo-app",
   "version": "1.0.0",
+  "description": "A React Native Expo application using Expo Camera and Face Detection to guide users through commands and track their face live.",
   "main": "node_modules/expo/AppEntry.js",
+  "author": "Sarhane Ghribi",
+  "license": "MIT",
   "scripts": {
-    "start": "expo start ",
+    "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"

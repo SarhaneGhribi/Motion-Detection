@@ -17,12 +17,11 @@ const CameraComponent = () => {
       }
     })();
   }, []);
-const takeSelfie=()=>{
+  const takeSelfie=()=>{
   console.log("selfie")
-}
+  };
   const handleFacesDetected = ({ faces}) => {
     setFaces(faces)
-    console.log(face)
   };
   const renderFaceData = () => {
     if (!face) {
@@ -95,7 +94,6 @@ const takeSelfie=()=>{
           }
         }
       };
-
       return (
         <SafeAreaView style={styles.faces}>
               <Text style={styles.faceDesc}>{currentCommand}</Text>
@@ -145,4 +143,4 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: "black",
   }
-})
+});
