@@ -9,7 +9,7 @@ To run the project locally, follow these simple steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SarhaneGhribi/Kyc-expo-app.git
+   git@github.com:SarhaneGhribi/Motion-expression-detector.git
    cd Kyc-expo-app
    
 2. **Install dependencies:**
