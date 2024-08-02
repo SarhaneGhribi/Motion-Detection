@@ -1,6 +1,6 @@
-# 📸 Kyc-expo-app
+# 📸 Motion/expression-detector
 
-Kyc-expo-app is a React Native Expo application that utilizes Expo Camera and Expo Face Detection to guide users through specific commands. It then checks if users follow these commands by tracking their face live.
+Motion/expression-detectoris a React Native Expo application that utilizes Expo Camera and Expo Face Detection to guide users through specific commands. It then checks if users follow these commands by tracking their face live.
 
 ## 🚀 Getting Started
 
